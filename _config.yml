@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     取引量No.1！ *当社比
 baseurl: "/page67" # the subpath of your site, e.g. /blog
 url: "https://takagotch.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-icon: /assets/images/icon-512.png
+icon: assets/images/icon-512.jpg
 twitter_username: takagotch
 github_username:  takagotch
 
